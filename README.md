@@ -9,3 +9,7 @@
 
 **Thoughts :** Hope this will be exciting.
 
+[D1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D1_crisp-dm.PNG
+
+![ CRISP-DM ][D1]
+
