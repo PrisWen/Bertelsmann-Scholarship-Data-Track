@@ -13,3 +13,14 @@
 
 ![ CRISP-DM ][D1]
 
+## Day 2 : December 11 , 2020 | Methodology Map
+
+**Today's Progress :** Today I reviewed the map outlines has two main scenarios for a business problem: Data analysis and  Predictive analysis
+
+
+**Thoughts :** Hope this will be exciting.
+
+[D2]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D2_Methodology_Map.PNG
+
+![ METHODOLOGY MAP ][D2]
+
