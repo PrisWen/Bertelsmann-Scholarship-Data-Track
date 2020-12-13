@@ -18,9 +18,20 @@
 **Today's Progress :** Today I reviewed the map outlines has two main scenarios for a business problem: Data analysis and  Predictive analysis
 
 
-**Thoughts :** Hope this will be exciting.
+**Thoughts :** Methodology map is very useful to determine the appropriate analytical technique
 
 [D2]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D2_Methodology_Map.PNG
 
 ![ METHODOLOGY MAP ][D2]
+
+## Day 3 : December 12 , 2020 | Data understanding
+
+**Today's Progress :** Today I reviewed "Data Understanding". It is important for proper analysis. 
+
+
+**Thoughts :** Get familiar with the data!
+
+[D3]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D3_data_undersstanding.PNG
+
+![ DATA UNDERSTANDING ][D3]
 
