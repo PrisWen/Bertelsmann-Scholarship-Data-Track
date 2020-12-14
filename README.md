@@ -35,3 +35,13 @@
 
 ![ DATA UNDERSTANDING ][D3]
 
+## Day 4 : December 13 , 2020 | Data preparation
+
+**Today's Progress :** Today I reviewed "Data Preparation". These 5 steps are necessary because the data requires some treatment before starting the analysis
+
+
+**Thoughts :** This step of the methodology is the basis for moving forward
+
+[D4]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D4_data_preparation.PNG
+
+![ DATA UNDERSTANDING ][D4]
