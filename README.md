@@ -44,4 +44,15 @@
 
 [D4]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D4_data_preparation.PNG
 
-![ DATA UNDERSTANDING ][D4]
+![ DATA PREPARATION ][D4]
+
+## Day 4 : December 13 , 2020 | Analysis, modeling and validation
+
+**Today's Progress :** Today I reviewed "Analysis, modeling and validation". We can use different models to solve a problem and part of the validation helps to identify if we should change the model
+
+
+**Thoughts :** Try differentent models.
+
+[D5]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D5_validation.PNG
+
+![ VALIDATION ][D5]
