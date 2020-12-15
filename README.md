@@ -46,7 +46,7 @@
 
 ![ DATA PREPARATION ][D4]
 
-## Day 4 : December 13 , 2020 | Analysis, modeling and validation
+## Day 5 : December 14 , 2020 | Analysis, modeling and validation
 
 **Today's Progress :** Today I reviewed "Analysis, modeling and validation". We can use different models to solve a problem and part of the validation helps to identify if we should change the model
 
