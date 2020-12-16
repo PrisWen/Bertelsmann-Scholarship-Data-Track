@@ -56,3 +56,14 @@
 [D5]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D5_validation.PNG
 
 ![ VALIDATION ][D5]
+
+## Day 6 : December 15 , 2020 | Presentation and visualization
+
+**Today's Progress :** Today I reviewed "Presentation and visualization". By visualizing we can measure the success of the analysis and it is important to reference the data source
+
+
+**Thoughts :** We can show visual results on maps
+
+[D6]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D6_visualization.PNG
+
+![ VISUALIZATION ][D6]
