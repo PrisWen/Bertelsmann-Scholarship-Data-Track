@@ -67,3 +67,14 @@
 [D6]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D6_visualization.PNG
 
 ![ VISUALIZATION ][D6]
+
+## Day 7 : December 16 , 2020 | Non-predictive Business Problem
+
+**Today's Progress :** Today I reviewed "Non-predictive Business Problem". With Methodology Map we can choose which methodology use in order to solve a business problem
+
+
+**Thoughts :** There is four categories: Geospatial, Segmentation, Aggregation, and Descriptive
+
+[D7]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D7_non_predictive.PNG
+
+![ NON-PREDICTIVE BUSINESS PROBLEM ][D7]
