@@ -73,8 +73,20 @@
 **Today's Progress :** Today I reviewed "Non-predictive Business Problem". With Methodology Map we can choose which methodology use in order to solve a business problem
 
 
-**Thoughts :** There is four categories: Geospatial, Segmentation, Aggregation, and Descriptive
+**Thoughts :** There are four categories: Geospatial, Segmentation, Aggregation, and Descriptive
 
 [D7]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D7_non_predictive.PNG
 
 ![ NON-PREDICTIVE BUSINESS PROBLEM ][D7]
+
+## Day 8 : December 17 , 2020 | Classifying Business Problems
+
+**Today's Progress :** Today I reviewed "Classifying Business Problems"
+Predictive.- To predict a future outcome
+Geospatial.- It uses location
+Segmentation.- Grouping data together
+Aggregation.- Calculating a value across a group
+Descriptive.- Summaries of a data sample
+
+**Thoughts :** I loved the examples
+
