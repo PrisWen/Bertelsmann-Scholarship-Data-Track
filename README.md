@@ -90,3 +90,13 @@ Descriptive.- Summaries of a data sample
 
 **Thoughts :** I loved the examples
 
+## Day 9 : December 18 , 2020 | Data Rich and Data Poor
+
+**Today's Progress :** Today I reviewed "Data Rich and Data Poor". If you doesn't have data on what you are trying to predict your data is poor otherwise is data rich
+
+
+**Thoughts :** It is important to identify your data
+
+[D9]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D9_data_poor.PNG
+
+![ DATA POOR ][D9]
