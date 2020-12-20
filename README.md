@@ -100,3 +100,15 @@ Descriptive.- Summaries of a data sample
 [D9]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D9_data_poor.PNG
 
 ![ DATA POOR ][D9]
+
+## Day 10 : December 19 , 2020 | Numeric & Non-Numeric Outcome
+
+**Today's Progress :** Today I reviewed "Numeric & Non-Numeric Outcome". If you want to predict a number, the target is numeric. If you want to predict a category, it is a classification.
+
+
+**Thoughts :** It is important to practice with real examples to identify whether a numeric or classification model.
+Today was the first meeting with the study group #sg_spanish I met @susyjam and @Joaquin it was a pleasant meeting
+
+[D10]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D10_num_and_non_num.PNG
+
+![ NUMERIC AND NON-NUMERIC ][D10]
