@@ -107,7 +107,8 @@ Descriptive.- Summaries of a data sample
 
 
 **Thoughts :** It is important to practice with real examples to identify whether a numeric or classification model.
-Today was the first meeting with the study group #sg_spanish I met @susyjam and @Joaquin it was a pleasant meeting
+
+Also, today was the first meeting with the study group #sg_spanish I met @susyjam and @Joaquin it was a pleasant meeting
 
 [D10]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D10_num_and_non_num.PNG
 
