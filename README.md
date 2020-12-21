@@ -113,3 +113,20 @@ Also, today was the first meeting with the study group #sg_spanish I met @susyja
 [D10]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D10_num_and_non_num.PNG
 
 ![ NUMERIC AND NON-NUMERIC ][D10]
+
+## Day 11 : December 20 , 2020 | Determining Appropiate Models
+
+**Today's Progress :** Today I reviewed "Determining Appropiate Models".
+If numeric, you should use a continuous or time-based model
+If classification, you should use a binary or non-binary model
+
+
+**Thoughts :** De nuevo me encantaron los ejemplos.
+
+[D11_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D11_1_numeric.PNG
+
+![ NUMERIC MODELS ][D11_1]
+
+[D11_2]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D11_2_classification.PNG
+
+![ CLASSIFICATION MODELS ][D11_2]
