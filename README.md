@@ -11,6 +11,7 @@
 
 [D1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D1_crisp-dm.PNG
 
+#### CRISP-DM
 ![ CRISP-DM ][D1]
 
 ## Day 2 : December 11 , 2020 | Methodology Map
@@ -22,6 +23,7 @@
 
 [D2]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D2_Methodology_Map.PNG
 
+#### METHODOLOGY MAP
 ![ METHODOLOGY MAP ][D2]
 
 ## Day 3 : December 12 , 2020 | Data understanding
@@ -33,6 +35,7 @@
 
 [D3]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D3_data_undersstanding.PNG
 
+#### DATA UNDERSTANDING
 ![ DATA UNDERSTANDING ][D3]
 
 ## Day 4 : December 13 , 2020 | Data preparation
@@ -44,6 +47,7 @@
 
 [D4]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D4_data_preparation.PNG
 
+#### DATA PREPARATION
 ![ DATA PREPARATION ][D4]
 
 ## Day 5 : December 14 , 2020 | Analysis, modeling and validation
@@ -55,6 +59,7 @@
 
 [D5]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D5_validation.PNG
 
+#### VALIDATION
 ![ VALIDATION ][D5]
 
 ## Day 6 : December 15 , 2020 | Presentation and visualization
@@ -66,6 +71,7 @@
 
 [D6]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D6_visualization.PNG
 
+#### VISUALIZATION
 ![ VISUALIZATION ][D6]
 
 ## Day 7 : December 16 , 2020 | Non-predictive Business Problem
@@ -77,6 +83,7 @@
 
 [D7]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D7_non_predictive.PNG
 
+#### NON-PREDICTIVE BUSINESS PROBLEM
 ![ NON-PREDICTIVE BUSINESS PROBLEM ][D7]
 
 ## Day 8 : December 17 , 2020 | Classifying Business Problems
@@ -99,6 +106,7 @@ Descriptive.- Summaries of a data sample
 
 [D9]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D9_data_poor.PNG
 
+#### DATA POOR
 ![ DATA POOR ][D9]
 
 ## Day 10 : December 19 , 2020 | Numeric & Non-Numeric Outcome
@@ -112,6 +120,7 @@ Also, today was the first meeting with the study group #sg_spanish I met @susyja
 
 [D10]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D10_num_and_non_num.PNG
 
+#### NUMERIC AND NON-NUMERIC
 ![ NUMERIC AND NON-NUMERIC ][D10]
 
 ## Day 11 : December 20 , 2020 | Determining Appropiate Models
@@ -121,12 +130,14 @@ If numeric, you should use a continuous or time-based model
 If classification, you should use a binary or non-binary model
 
 
-**Thoughts :** De nuevo me encantaron los ejemplos.
+**Thoughts :** Again I loved the examples
 
 [D11_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D11_1_numeric.PNG
 
+##### NUMERIC MODELS
 ![ NUMERIC MODELS ][D11_1]
 
 [D11_2]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D11_2_classification.PNG
 
+#### CLASSIFICATION MODELS
 ![ CLASSIFICATION MODELS ][D11_2]
