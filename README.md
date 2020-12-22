@@ -141,3 +141,11 @@ If classification, you should use a binary or non-binary model
 
 #### CLASSIFICATION MODELS
 ![ CLASSIFICATION MODELS ][D11_2]
+
+## Day 12 : December 21 , 2020 | Model Selection Assessment and lesson summary
+
+**Today's Progress :** Today I reviewed Model Selection Assessment and lesson summary.
+It was composed of twelve questions that helped me understand which model to apply.
+
+
+**Thoughts :** Lesson 2 finished!
