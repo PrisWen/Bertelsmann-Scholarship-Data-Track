@@ -149,3 +149,18 @@ It was composed of twelve questions that helped me understand which model to app
 
 
 **Thoughts :** Lesson 2 finished!
+
+## Day 13 : December 22 , 2020 | Business Problem
+
+**Today's Progress :** Today I reviewed "Business Problem".
+There are three questions that we need to answer:
+What decision needs to be made?
+What information is needed?
+What type of analysis is needed to make that decision?
+
+**Thoughts :** If we answer these questions we can solve the problem
+
+[D13]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D13_business_problem.PNG
+
+##### BUSINESS PROBLEM
+![ BUSINESS PROBLEM ][D13]
