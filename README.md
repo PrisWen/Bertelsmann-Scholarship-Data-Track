@@ -164,3 +164,15 @@ What type of analysis is needed to make that decision?
 
 ##### BUSINESS PROBLEM
 ![ BUSINESS PROBLEM ][D13]
+
+## Day 14 : December 23 , 2020 | Data Understanding Solution
+
+**Today's Progress :** Today I reviewed "Data Understanding Solution".
+So far I am able to determine which model is appropriate.
+
+**Thoughts :** In the example I analyzed the data by columns, there are number of tickets and employees that is grouped by customer and I want to predict the number of future tickets
+
+[D14]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D14_data_understanding_solution.PNG
+
+##### DATA UNDERSTANDING SOLUTION
+![ DATA UNDERSTANDING SOLUTION ][D14]
