@@ -176,3 +176,17 @@ So far I am able to determine which model is appropriate.
 
 ##### DATA UNDERSTANDING SOLUTION
 ![ DATA UNDERSTANDING SOLUTION ][D14]
+
+## Day 15 : December 24 , 2020 | Linear Regression
+
+**Today's Progress :** Today I reviewed "Linear Regression".
+We can predict values with a simple equation y = mx + b 
+y is the dependent variable, x is a predictor variable, m is slope of the line and b is y-intercept 
+
+**Thoughts :** We can apply linear regression if there are linear relationship between variables
+
+[D15]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D15_linear_regression.PNG
+
+##### LINEAR REGRESSION
+![ LINEAR REGRESSION ][D15]
+
