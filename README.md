@@ -190,3 +190,14 @@ y is the dependent variable, x is a predictor variable, m is slope of the line a
 ##### LINEAR REGRESSION
 ![ LINEAR REGRESSION ][D15]
 
+## Day 16 : December 25 , 2020 | Linear Equations in Google Sheets
+
+**Today's Progress :** Today I reviewed "Linear Equations in Google Sheets".
+I used the SLOPE and INTERCEPT function
+
+**Thoughts :** Excel in spanish I used PENDIENTE and INTERSECCION
+
+[D16]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D16_linear_equation.PNG
+
+##### LINEAR EQUATION
+![ LINEAR EQUATION ][D16]
