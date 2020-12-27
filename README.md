@@ -201,3 +201,16 @@ I used the SLOPE and INTERCEPT function
 
 ##### LINEAR EQUATION
 ![ LINEAR EQUATION ][D16]
+
+## Day 17 : December 26 , 2020 | Linear Regression Validation
+
+**Today's Progress :** Today I reviewed "Linear Regression Validation".
+I used correlation and r-squared
+
+**Thoughts :** We can calculate it in google sheets.
+Also, today was the second meeting with the study group #sg_spanish thanks @susyjam @Joaquin @Gustavo @Sandra @Nicolás Campos @Guillermo Fontánez it was a pleasant meeting.
+
+[D17]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D17_validation.PNG
+
+##### LINEAR REGRESSION VALIDATION
+![ LINEAR EQUATION ][D17]
