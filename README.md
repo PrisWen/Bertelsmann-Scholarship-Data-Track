@@ -213,4 +213,16 @@ Also, today was the second meeting with the study group #sg_spanish thanks @susy
 [D17]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D17_validation.PNG
 
 ##### LINEAR REGRESSION VALIDATION
-![ LINEAR EQUATION ][D17]
+![ LINEAR REGRESSION VALIDATION ][D17]
+
+## Day 18 : December 27 , 2020 | Multiple Linear Regression
+
+**Today's Progress :** Today I reviewed "Multiple Linear Regression".
+it has the independent variables X, and a dependent variable Y
+
+**Thoughts :** Course content gets more and more interesting
+
+[D18]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D18_multiple_lr.PNG
+
+##### MULTIPLE LINEAR REGRESSION
+![ MULTIPLE LINEAR REGRESSION ][D18]
