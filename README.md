@@ -226,3 +226,15 @@ it has the independent variables X, and a dependent variable Y
 
 ##### MULTIPLE LINEAR REGRESSION
 ![ MULTIPLE LINEAR REGRESSION ][D18]
+
+## Day 19 : December 28 , 2020 | Multiple Linear Regression with Excel
+
+**Today's Progress :** Today I reviewed "Multiple Linear Regression with Excel".
+I used regression option in excel data analysis
+
+**Thoughts :** Later I will take "Creating an Analytical Dataset" course, for cleaning data
+
+[D19]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D19_data_analysis.PNG
+
+##### MULTIPLE LINEAR REGRESSION WITH EXCEL
+![ MULTIPLE LINEAR REGRESSION WITH EXCEL ][D19]
