@@ -238,3 +238,11 @@ I used regression option in excel data analysis
 
 ##### MULTIPLE LINEAR REGRESSION WITH EXCEL
 ![ MULTIPLE LINEAR REGRESSION WITH EXCEL ][D19]
+
+## Day 20 : December 29 , 2020 | Linear Regression with Categorical Variables
+
+**Today's Progress :** Today I reviewed "Linear Regression with Categorical Variables".
+I learned how to transform categorical variables with dummy variables
+
+**Thoughts :** Important tip: You would add one dummy variable for one less than the number of unique values in the categorical variable
+
