@@ -253,7 +253,7 @@ I followed the steps and the registration was easy
 
 **Thoughts :** Finally I will work with Alteryx
 
-[D21]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D21_alterix.PNG
+[D21]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D21_alteryx.PNG
 
 ##### DOWNLOADING ALTERYX
 ![ DOWNLOADING ALTERYX ][D21]
