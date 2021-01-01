@@ -257,3 +257,15 @@ I followed the steps and the registration was easy
 
 ##### DOWNLOADING ALTERYX
 ![ DOWNLOADING ALTERYX ][D21]
+
+## Day 22 : December 31 , 2020 | Introduction to Alteryx
+
+**Today's Progress :** Today I reviewed "Introduction to Alteryx".
+I understood the explanation about tools, configuration panel and canvas
+
+**Thoughts :** I want to wish you a happy new year full of success and motivate you to continue learning in this wonderful community @Gustavo @Sandra @Nicolás Campos @Guillermo Fontánez @Joaquin @PuzzleDots @tife @Neyber Rojas @Odara Rapheal @Yannic Schlegel @Viena Baca @Richard @Axel @Ninon Aguilera @Sayed.DataTrack 
+
+[D22]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D22_intro_alteryx.PNG
+
+##### INTRODUCTION ALTERYX
+![ INTRODUCTION ALTERYX ][D22]
