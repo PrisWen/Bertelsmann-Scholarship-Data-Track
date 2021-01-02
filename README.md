@@ -269,3 +269,11 @@ I understood the explanation about tools, configuration panel and canvas
 
 ##### INTRODUCTION ALTERYX
 ![ INTRODUCTION ALTERYX ][D22]
+
+## Day 23 : January 1 , 2020 | Alteryx tutorials
+
+**Today's Progress :** Today I did a tutorial review on Alteryx, it is a very useful tool
+
+**Thoughts :** I like to learn something new every day
+
+
