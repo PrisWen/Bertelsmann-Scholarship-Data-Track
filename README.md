@@ -276,4 +276,13 @@ I understood the explanation about tools, configuration panel and canvas
 
 **Thoughts :** I like to learn something new every day
 
+## Day 24 : January 2 , 2020 | Alteryx workflow
 
+**Today's Progress :** Today I did a workflow to load data into Alteryx
+
+**Thoughts :** I'm still reviewing the tutorials, it's incredible how many tutorials there are about Alteryx
+
+[D24]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D24_tutorial_alteryx.PNG
+
+##### ALTERYX WORKFLOW
+![ ALTERYX WORKFLOW][D24]
