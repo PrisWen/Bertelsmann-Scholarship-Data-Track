@@ -286,3 +286,14 @@ I understood the explanation about tools, configuration panel and canvas
 
 ##### ALTERYX WORKFLOW
 ![ ALTERYX WORKFLOW][D24]
+
+## Day 25 : January 3 , 2020 | First model with linear regression
+
+**Today's Progress :** Today I did my first model with linear regression
+
+**Thoughts :** The report that is generated is very complete
+
+[D25]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D25_first_model.PNG
+
+##### ALTERYX WORKFLOW
+![ ALTERYX WORKFLOW][D25]
