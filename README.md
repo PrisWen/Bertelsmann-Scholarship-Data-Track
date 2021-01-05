@@ -297,3 +297,10 @@ I understood the explanation about tools, configuration panel and canvas
 
 ##### ALTERYX WORKFLOW
 ![ ALTERYX WORKFLOW][D25]
+
+## Day 26 : January 4 , 2020 | Evaluating an equation
+
+**Today's Progress :** Today I reviewed "Evaluating an equation"
+I used the coefficients of the linear regression model
+
+**Thoughts :** Almost finishing the third lesson
