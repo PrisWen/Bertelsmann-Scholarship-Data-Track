@@ -304,3 +304,14 @@ I understood the explanation about tools, configuration panel and canvas
 I used the coefficients of the linear regression model
 
 **Thoughts :** Almost finishing the third lesson
+
+## Day 27 : January 5 , 2020 | Summary of lesson 3 Linear Regression
+
+**Today's Progress :** Today I did a summary of lesson 3 Linear Regression
+
+**Thoughts :** I loved the linear regression playbook
+
+[D27]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D27_lr_playbook.PNG
+
+##### LINEAR REGRESSION PLAYBOOK
+![ LINEAR REGRESSION PLAYBOOK ][D27]
