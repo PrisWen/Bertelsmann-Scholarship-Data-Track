@@ -315,3 +315,14 @@ I used the coefficients of the linear regression model
 
 ##### LINEAR REGRESSION PLAYBOOK
 ![ LINEAR REGRESSION PLAYBOOK ][D27]
+
+## Day 28 : January 6 , 2020 | New Alteryx tools
+
+**Today's Progress :** Today I learned how to deal with null values, Alteryx has interestings tools
+
+**Thoughts :** Filter, imputation, data cleansing are some examples of tools
+
+[D28]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D28_alteryx_tools.PNG
+
+##### NEW ALTERYX TOOLS
+![ NEW ALTERYX TOOLS ][D28]
