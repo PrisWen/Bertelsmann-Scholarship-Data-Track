@@ -326,3 +326,10 @@ I used the coefficients of the linear regression model
 
 ##### NEW ALTERYX TOOLS
 ![ NEW ALTERYX TOOLS ][D28]
+
+## Day 29 : January 7 , 2020 | Practice Project Details
+
+**Today's Progress :** Today I reviewed "Practice Project Details". 
+I finally got to the project Predicting Diamond Prices
+
+**Thoughts :** I am following the steps and hope I can solve it
