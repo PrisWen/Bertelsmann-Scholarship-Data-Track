@@ -333,3 +333,9 @@ I used the coefficients of the linear regression model
 I finally got to the project Predicting Diamond Prices
 
 **Thoughts :** I am following the steps and hope I can solve it
+
+## Day 30 : January 8 , 2020 | Working in the project
+
+**Today's Progress :** I am still working in the project
+
+**Thoughts :** Alteryx tools are very useful. Also since yesterday I began to solve the exercises of the challenge of #sg_python_community
