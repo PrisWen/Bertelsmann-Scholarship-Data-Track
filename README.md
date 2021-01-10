@@ -339,3 +339,15 @@ I finally got to the project Predicting Diamond Prices
 **Today's Progress :** I am still working in the project
 
 **Thoughts :** Alteryx tools are very useful. Also since yesterday I began to solve the exercises of the challenge of #sg_python_community
+
+## Day 31 : January 9 , 2020 | Input and Visualize Data
+
+**Today's Progress :** Today I reviewed "Input and Visualize Data". 
+I loved the way the graphics are displayed
+
+**Thoughts :** It is incredible how Alteryx help us to visualize a scatterplot
+
+[D31]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D31_visualize_data.PNG
+
+##### VISUALIZE DATA
+![ VISUALIZE DATA ][D31]
