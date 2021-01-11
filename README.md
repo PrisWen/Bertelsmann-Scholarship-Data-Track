@@ -351,3 +351,10 @@ I loved the way the graphics are displayed
 
 ##### VISUALIZE DATA
 ![ VISUALIZE DATA ][D31]
+
+## Day 32 : January 10 , 2020 | Build the model
+
+**Today's Progress :** Today I reviewed "Build the model". 
+With linear regression tool of Alteryx we can choose target variable
+
+**Thoughts :** Also yesterday I participated in the group activity #sg_weekend_club
