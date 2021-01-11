@@ -357,4 +357,4 @@ I loved the way the graphics are displayed
 **Today's Progress :** Today I reviewed "Build the model". 
 With linear regression tool of Alteryx we can choose target variable
 
-**Thoughts :** Also yesterday I participated in the group activity #sg_weekend_club
+**Thoughts :** Also yesterday I participated in the group activity #sg_weekend_club and I continue with the challenge of #sg_python_community
