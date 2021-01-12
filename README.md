@@ -358,3 +358,10 @@ I loved the way the graphics are displayed
 With linear regression tool of Alteryx we can choose target variable
 
 **Thoughts :** Also yesterday I participated in the group activity #sg_weekend_club and I continue with the challenge of #sg_python_community
+
+## Day 33 : January 11 , 2020 | Score the Model
+
+**Today's Progress :** Today I reviewed "Score the Model". 
+I had some issues with Alteryx, I will try to see tutorials to calculate the score
+
+**Thoughts :** I continue with the challenge of #sg_python_community
