@@ -365,3 +365,14 @@ With linear regression tool of Alteryx we can choose target variable
 I had some issues with Alteryx, I will try to see tutorials to calculate the score
 
 **Thoughts :** I continue with the challenge of #sg_python_community
+
+## Day 34 : January 12 , 2020 | Practice project
+
+**Today's Progress :** Finally I finished the practice project of predicting the price of diamonds
+
+**Thoughts :** I continue with the challenge of #sg_python_community
+
+[D34]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D34_practice_project.PNG
+
+##### PRACTICE PROJECT
+![ PRACTICE PROJECT ][D34]
