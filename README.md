@@ -345,7 +345,8 @@ I finally got to the project Predicting Diamond Prices
 **Today's Progress :** Today I reviewed "Input and Visualize Data". 
 I loved the way the graphics are displayed
 
-**Thoughts :** It is incredible how Alteryx help us to visualize a scatterplot
+**Thoughts :** It is incredible how Alteryx help us to visualize a scatterplot. Today we had an activity in the group #sg_spanish with @Guillermo Fontánez @Nicolás Campos @Gustavo @Sandra @Joaquin  @Ysabel Nava @Edgar Chacon @tife @María Ortiz @DavidGabrielSilvera @susyjam @Priscila Espinoza thanks for sharing and learning together
+I am also continuing with the challenges of #sg_python_community
 
 [D31]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D31_visualize_data.PNG
 
@@ -376,3 +377,4 @@ I had some issues with Alteryx, I will try to see tutorials to calculate the sco
 
 ##### PRACTICE PROJECT
 ![ PRACTICE PROJECT ][D34]
+
