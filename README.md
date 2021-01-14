@@ -378,3 +378,10 @@ I had some issues with Alteryx, I will try to see tutorials to calculate the sco
 ##### PRACTICE PROJECT
 ![ PRACTICE PROJECT ][D34]
 
+## Day 35 : January 13 , 2020 | Project overview
+
+**Today's Progress :** Today I reviewed "Project overview".
+The project is about mail-order catalog business and predict how much money they can expect to earn from sending out a catalog
+
+**Thoughts :** After a month and a few days I got here, this is exciting. I continue with the challenge of #sg_python_community
+
