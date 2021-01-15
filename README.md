@@ -385,3 +385,9 @@ The project is about mail-order catalog business and predict how much money they
 
 **Thoughts :** After a month and a few days I got here, this is exciting. I continue with the challenge of #sg_python_community
 
+## Day 36 : January 14 , 2020 | Project details
+
+**Today's Progress :** Today I reviewed "Project details".
+There are useful steps to success!
+
+**Thoughts :** Today I participated in the AMA session. I continue with the challenge of #sg_python_community with dictionaries
