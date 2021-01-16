@@ -391,3 +391,10 @@ The project is about mail-order catalog business and predict how much money they
 There are useful steps to success!
 
 **Thoughts :** Today I participated in the AMA session. I continue with the challenge of #sg_python_community with dictionaries
+
+## Day 37 : January 15 , 2020 | Supporting Materials
+
+**Today's Progress :** Today I reviewed "Supporting Materials".
+There is a project rubric and a explanation about the dataset
+
+**Thoughts :** I continue with the challenge of #sg_python_community with dictionaries
