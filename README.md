@@ -404,4 +404,5 @@ There is a project rubric and a explanation about the dataset
 **Today's Progress :** Today I reviewed "Tips".
 In the lesson they recommend us to make a project checklist
 
-**Thoughts :** This optional project is helping me understand and apply everything I have learned. I continue with the challenge of #sg_python_community with dictionaries
+**Thoughts :** This optional project is helping me understand and apply everything I have learned. Yesteday I applied as a volunteer to the Study Jam. I want to thank @Nicolás Campos for his presentation and the members of the group sg_spanish @Viena Baca @Edgar Chacon @Joaquin @Sandra @Jaime González @Ninon Aguilera @susyjam @Priscila Espinoza
+I continue with the challenge of #sg_python_community with dictionaries. 
