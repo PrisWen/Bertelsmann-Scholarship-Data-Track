@@ -398,3 +398,10 @@ There are useful steps to success!
 There is a project rubric and a explanation about the dataset
 
 **Thoughts :** I continue with the challenge of #sg_python_community with dictionaries
+
+## Day 38 : January 16 , 2020 | Tips
+
+**Today's Progress :** Today I reviewed "Tips".
+In the lesson they recommend us to make a project checklist
+
+**Thoughts :** This optional project is helping me understand and apply everything I have learned. I continue with the challenge of #sg_python_community with dictionaries
