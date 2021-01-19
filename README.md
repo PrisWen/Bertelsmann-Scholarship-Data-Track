@@ -410,7 +410,14 @@ I continue with the challenge of #sg_python_community with dictionaries.
 ## Day 39 : January 17 , 2020 | Reviewed the lessons
 
 **Today's Progress :** Today I reviewed the lessons to solve the project in Alteryx.
-I also read an interesting link about accuracy, precision, recall F-1 score
+I also read an interesting link about accuracy, precision, recall F-1 score: https://steemit.com/spanish/@waster/explicacion-alternativa-para-accuracy-precision-recall-y-f1-score)
+
+**Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
+
+## Day 40 : January 18 , 2020 | Reviewed the lessons
+
+**Today's Progress :** Today I reviewed the lessons to solve the project in Alteryx.
+I also read an interesting link about Selecting metrics for machine learning https://fayrix.com/machine-learning-metrics_es
 
 **Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
 
