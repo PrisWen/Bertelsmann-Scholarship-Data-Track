@@ -414,10 +414,16 @@ I also read an interesting link about accuracy, precision, recall F-1 score: htt
 
 **Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
 
-## Day 40 : January 18 , 2020 | Reviewed the lessons
+## Day 40 : January 18 , 2020 | Reviewed the lessons and metrics
 
 **Today's Progress :** Today I reviewed the lessons to solve the project in Alteryx.
-I also read an interesting link about Selecting metrics for machine learning https://fayrix.com/machine-learning-metrics_es
+I also read an interesting link about selecting metrics for machine learning https://fayrix.com/machine-learning-metrics_es
+
+**Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
+
+## Day 41 : January 19 , 2020 | Reviewed resources
+
+**Today's Progress :** Today I reviewed some resources to solve the project in Alteryx. I also read an interesting link about imbalanced data https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
 
 **Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
 
