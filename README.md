@@ -419,16 +419,18 @@ I also read an interesting link about accuracy, precision, recall F-1 score: htt
 **Today's Progress :** Today I reviewed the lessons to solve the project in Alteryx.
 I also read an interesting link about selecting metrics for machine learning https://fayrix.com/machine-learning-metrics_es
 
-**Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
+**Thoughts :** I continue with the challenge of #sg_python_community with files. 
 
 ## Day 41 : January 19 , 2020 | Reviewed resources
 
 **Today's Progress :** Today I reviewed some resources to solve the project in Alteryx. I also read an interesting link about imbalanced data https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
 
-**Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
+**Thoughts :** I continue with the challenge of #sg_python_community with files. 
 
 ## Day 42 : January 20 , 2020 | Reviewed resources and solving project
 
 **Today's Progress :** Today I started solving the project in Alteryx. I also read an interesting link about categorical data https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621
 
-**Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
+**Thoughts :** I continue with the challenge of #sg_python_community with files. 
+We also had a first meeting with the group #sg_spanish_english, thanks to @PuzzleDots @Pedro @Dragana Jovancevic @maibelca @susyjam and @Edgar Chacon
+Today I want to motivate @Shariq Lalani @Arcy Flores 
