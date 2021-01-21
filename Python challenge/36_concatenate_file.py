@@ -2,6 +2,8 @@
 #The files are displayed in the same order that they appear on the command line.
 #Create a Python program that performs this task. It should generate an appropriate error message for any file that cannot be displayed, and then proceed to the next file. Display an appropriate error message if your program is started without any command line parameters.
 
+#Run: concatenate_file.py elements.txt elements2.txt
+
 from sys import argv
 
 # parameter command line
