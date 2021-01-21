@@ -427,3 +427,8 @@ I also read an interesting link about selecting metrics for machine learning htt
 
 **Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
 
+## Day 42 : January 20 , 2020 | Reviewed resources and solving project
+
+**Today's Progress :** Today I started solving the project in Alteryx. I also read an interesting link about categorical data https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621
+
+**Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
