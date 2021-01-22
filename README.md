@@ -434,3 +434,9 @@ I also read an interesting link about selecting metrics for machine learning htt
 **Thoughts :** I continue with the challenge of #sg_python_community with files. 
 We also had a first meeting with the group #sg_spanish_english, thanks to @PuzzleDots @Pedro @Dragana Jovancevic @maibelca @susyjam and @Edgar Chacon
 Today I want to motivate @Shariq Lalani @Arcy Flores 
+
+## Day 43 : January 21 , 2020 | Reviewed resources and solving project d2
+
+**Today's Progress :** I continue solving the project in Alteryx. I also read an interesting link about what is the Difference Between Test and Validation Datasets https://machinelearningmastery.com/difference-test-validation-datasets/
+
+**Thoughts :** I continue with the challenge of #sg_python_community with files. 
