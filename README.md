@@ -440,3 +440,9 @@ Today I want to motivate @Shariq Lalani @Arcy Flores
 **Today's Progress :** I continue solving the project in Alteryx. I also read an interesting link about what is the Difference Between Test and Validation Datasets https://machinelearningmastery.com/difference-test-validation-datasets/
 
 **Thoughts :** I continue with the challenge of #sg_python_community with files. 
+
+## Day 44 : January 22 , 2020 | Study Jam 
+
+**Today's Progress :** As a volunteer today I was working on material for Study Jam, specifically to support lesson 1 The analytical problem
+
+**Thoughts :** I am looking forward to all the Study Jam activities, which is a great opportunity. I continue with the challenge of #sg_python_community with files. 
