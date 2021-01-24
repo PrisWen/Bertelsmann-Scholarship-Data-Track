@@ -452,3 +452,15 @@ Today I want to motivate @Shariq Lalani @Arcy Flores
 **Today's Progress :** As a Tech AMA volunteer for Study Jam #l1_analytical_problem channel I support the schedule of 11 PM - 1 AM GMT in this time I shared a fun quiz and I created a graphic in order to understand the CRISP-DM process
 
 **Thoughts :** Also I participated in the activities: "Bingo", "The Dangers of Dirty Data" and "Working with Kaggle Databases in Jupyter Notebook". Thanks @susyjam, Susan Walsh, @Gerardo Valencia  and @Samuel Ekladious
+
+**Complement :** 
+Summary of the activities in which I participated
+
+-Tech AMA volunteer: l1_analytical_problem channel I shared a fun quiz and I created a graphic in order to understand the CRISP-DM process
+-24 hrs Event: Bingo and Spotify playlist by @susyjam
+-Guest speakers Webinar: The Dangers of Dirty Data by Susan Walsh
+-Quiz: Statistics Linear Regression Quiz by @Samuel Ekladious
+-Workshop: Data analysis with R by @MrLeyva
+-Webinar: Working with Kaggle Databases in Jupyter Notebook by @Gerardo Valencia
+-Workshop: Introduction to Data Visualization with Excel by @Jaime González
+#study_jam
