@@ -456,11 +456,31 @@ Today I want to motivate @Shariq Lalani @Arcy Flores
 **Complement :** 
 Summary of the activities in which I participated
 
--Tech AMA volunteer: l1_analytical_problem channel I shared a fun quiz and I created a graphic in order to understand the CRISP-DM process
+-Tech AMA volunteer: #l1_analytical_problem channel I shared a fun quiz and I created a graphic in order to understand the CRISP-DM process
 -24 hrs Event: Bingo and Spotify playlist by @susyjam
 -Guest speakers Webinar: The Dangers of Dirty Data by Susan Walsh
 -Quiz: Statistics Linear Regression Quiz by @Samuel Ekladious
 -Workshop: Data analysis with R by @MrLeyva
 -Webinar: Working with Kaggle Databases in Jupyter Notebook by @Gerardo Valencia
 -Workshop: Introduction to Data Visualization with Excel by @Jaime González
-#study_jam
+Many thanks to @Jonathan Papworth @Esma for this initiative and to all the people who supported and participated in the #study_jam
+
+[D45_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_bingo.PNG
+[D45_2]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_dirty_data.PNG
+[D45_3]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_lr_quiz.PNG
+[D45_4]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_webinar_kaggle.PNG
+[D45_5]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_workshop_r.PNG
+[D45_6]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_workshop_excel.PNG
+
+##### Bingo
+![ Bingo ][D45_1]
+##### Webinar: The Dangers of Dirty Data
+![ Webinar: The Dangers of Dirty Data ][D45_2]
+##### Quiz: Statistics Linear Regression
+![ Quiz: Statistics Linear Regression ][D45_3]
+##### Webinar: Working with Kaggle Databases in Jupyter Notebook
+![ Webinar: Working with Kaggle Databases in Jupyter Notebook ][D45_4]
+##### Workshop: Data analysis with R
+![ Workshop: Data analysis with R ][D45_5]
+##### Workshop: Introduction to Data Visualization with Excel
+![ Workshop: Introduction to Data Visualization with Excel ][D45_6]
