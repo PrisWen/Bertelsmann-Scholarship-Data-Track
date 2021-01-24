@@ -468,9 +468,9 @@ Many thanks to @Jonathan Papworth @Esma for this initiative and to all the peopl
 [D45_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_bingo.PNG
 [D45_2]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_dirty_data.PNG
 [D45_3]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_lr_quiz.PNG
-[D45_4]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_webinar_kaggle.PNG
-[D45_5]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_workshop_r.PNG
-[D45_6]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_workshop_excel.PNG
+[D45_4]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_webinar_kaggle.png
+[D45_5]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_workshop_r.png
+[D45_6]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/study_jam_workshop_excel.png
 
 ##### Bingo
 ![ Bingo ][D45_1]
