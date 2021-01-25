@@ -484,3 +484,11 @@ Many thanks to @Jonathan Papworth @Esma for this initiative and to all the peopl
 ![ Workshop: Data analysis with R ][D45_5]
 ##### Workshop: Introduction to Data Visualization with Excel
 ![ Workshop: Introduction to Data Visualization with Excel ][D45_6]
+
+
+## Day 46 : January 24 , 2020 | Working on the final project
+
+**Today's Progress :** Today I continue with the final project 
+
+**Thoughts :** Today we had an activity in the group #sg_spanish with  @Edgar Chacon @Gustavo @Jaime González @Rodrigo @Ysabel Nava @N. Lionel and @susyjam thanks for sharing and learning together
+I am also continuing with the challenges of #sg_python_community
