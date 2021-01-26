@@ -491,4 +491,16 @@ Many thanks to @Jonathan Papworth @Esma for this initiative and to all the peopl
 **Today's Progress :** Today I continue with the final project 
 
 **Thoughts :** Today we had an activity in the group #sg_spanish with  @Edgar Chacon @Gustavo @Jaime González @Rodrigo @Ysabel Nava @N. Lionel and @susyjam thanks for sharing and learning together
-I am also continuing with the challenges of #sg_python_community
+I am also continuing with the challenges of #sg_python_community with files, this time we work giving feedback in pairs
+
+## Day 47 : January 25 , 2020 | Final project finished
+
+**Today's Progress :** I am very happy because I finally finished the final project "Predicting Catalog Demand". 
+
+**Thoughts :** Today I worked with Alteryx resources and a review of the lessons
+I am also continuing with the challenges of #sg_python_community with files, this time we work giving feedback in pairs
+
+[D47]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D47_revenue_final_project.PNG
+
+##### REVENUE FINAL PROJECT
+![ REVENUE FINAL PROJECT ][D47]
