@@ -504,3 +504,10 @@ I am also continuing with the challenges of #sg_python_community with files, thi
 
 ##### REVENUE FINAL PROJECT
 ![ REVENUE FINAL PROJECT ][D47]
+
+
+## Day 48 : January 26 , 2020 | Reviewed the lessons
+
+**Today's Progress :** Today I reviewed the lessons to take more notes to better understand the topics
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community with files, this time we work giving feedback in pairs
