@@ -506,8 +506,20 @@ I am also continuing with the challenges of #sg_python_community with files, thi
 ![ REVENUE FINAL PROJECT ][D47]
 
 
-## Day 48 : January 26 , 2020 | Reviewed the lessons
+## Day 48 : January 26 , 2020 | Reviewed the lessons and take notes
 
 **Today's Progress :** Today I reviewed the lessons to take more notes to better understand the topics
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with files, this time we work giving feedback in pairs
+
+## Day 49 : January 27 , 2020 | Classification models course
+
+**Today's Progress :** Today I want to thank @Gustavo because he inspired me to learn more, I am taking the course "Classification models" from Udacity
+
+**Thoughts :** For now I reviewed the first lesson, Binary vs Non-Binary concepts and I find it very interesting
+I am also continuing with the challenges of #sg_python_community with files, this time we work giving feedback in pairs
+
+[D49]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D49_binary_or_not.PNG
+
+##### BINARY OR NOT BINARY
+![ BINARY OR NOT BINARY ][D49]
