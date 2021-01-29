@@ -523,3 +523,15 @@ I am also continuing with the challenges of #sg_python_community with files, thi
 
 ##### BINARY OR NOT BINARY
 ![ BINARY OR NOT BINARY ][D49]
+
+## Day 50 : January 28 , 2020 | Selecting predictor variables
+
+**Today's Progress :** Continuing with the classification course, today I learned how to select predictor variables and avoid duplicate variables.
+
+**Thoughts :** I'll keep practicing with more examples
+I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
+
+[D50]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D50_duplicate_variables.PNG
+
+##### DUPLICATE VARIABLES
+![ DUPLICATE VARIABLES ][D50]
