@@ -538,7 +538,7 @@ I am also continuing with the challenges of #sg_python_community with recursion,
 
 ## Day 51 : January 29 , 2020 | Generalized Linear Models
 
-**Today's Progress :** Today I learned about "Generalized Linear Models" a python library that is useful for estimations like reports in Alteryx
+**Today's Progress :** Today I learned about "Generalized Linear Models" a python library that is useful to calculate coefficients like reports in Alteryx
 https://www.statsmodels.org/stable/glm.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
