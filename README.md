@@ -546,10 +546,12 @@ https://www.statsmodels.org/stable/glm.html
 ## Day 52 : January 30 , 2020 | Classification Problems: Correlation
 
 **Today's Progress :** Continuing with the classification course, today I reviewed about correlation between variables. Also I read and practiced with the correlation tutorial: https://realpython.com/numpy-scipy-pandas-correlation-python/
+Today we had an activity in the group #sg_spanish with @Jaime González @Nicolás Campos @Sandra @susyjam @Priscila Espinoza thanks for sharing and learning together
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
 
 [D52]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D52_correlation.PNG
+
 
 ##### CORRELATION
 ![ CORRELATION ][D52]
