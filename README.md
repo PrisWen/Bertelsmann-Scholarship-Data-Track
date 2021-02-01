@@ -555,3 +555,9 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 
 ##### CORRELATION
 ![ CORRELATION ][D52]
+
+## Day 53 : January 31 , 2020 | Kaggle databases
+
+**Today's Progress :** Today review databases in Kaggle to start a project and put into practice what you have learned in the course.
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
