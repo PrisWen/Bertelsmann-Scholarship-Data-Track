@@ -561,3 +561,9 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 **Today's Progress :** Today review databases in Kaggle to start a project and put into practice what you have learned in the course.
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
+
+## Day 54 : February 1 , 2020 | Correlation plots in Alteryx
+
+**Today's Progress :** Continuing with the classification course, today I reviewed about correlation plots in Alteryx, that can be easily generated.
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
