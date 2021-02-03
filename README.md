@@ -568,7 +568,7 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
 
-## Day 55 : February 2 , 2020 | 
+## Day 55 : February 2 , 2020 | How to deal with dirty data 
 
 **Today's Progress :** Today I reviewed Lesson 2 of the course Creating an Analytical Dataset and I learned how to deal with dirty data 
 
