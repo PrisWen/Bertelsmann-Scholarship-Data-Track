@@ -573,3 +573,9 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 **Today's Progress :** Today I reviewed Lesson 2 of the course Creating an Analytical Dataset and I learned how to deal with dirty data 
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
+
+## Day 56 : February 3 , 2020 | Resources
+
+**Today's Progress :** Today I checked this interesting link with a lot of resources about Machine Learning https://www.kaggle.com/getting-started/159945. Also yesterday I applied to mentee I hope to learn more and apply it in projects.
+
+** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
