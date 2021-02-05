@@ -579,3 +579,11 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 **Today's Progress :** Today I checked this interesting link with a lot of resources about Machine Learning https://www.kaggle.com/getting-started/159945. Also yesterday I applied to mentee I hope to learn more and apply it in projects.
 
 ** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
+
+## Day 57 : February 4 , 2020 | Python Enhancement Proposals
+
+**Today's Progress :** Today I reviewed Python Enhancement Proposals https://www.python.org/dev/peps/ for best programming practices, I want to thank @GEQUN for his comments and the review of my code in the study group #sg_python_community
+
+** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
+
+
