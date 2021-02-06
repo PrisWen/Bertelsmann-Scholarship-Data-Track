@@ -586,4 +586,10 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 
 ** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
 
+## Day 58 : February 5 , 2020 | Analytics with Power BI
+
+**Today's Progress :** Today I practiced some reports with Power BI (Combo chart) https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-combo-chart
+
+** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with timing.
+
 
