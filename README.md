@@ -592,4 +592,16 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 
 ** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with timing.
 
+## Day 59 : February 6 , 2020 | Parsing in Alteryx and Mid Jam talks
+
+**Today's Progress :** Today I reviewed some examples of parsing in Alteryx. I attended the webinar: Everyday Ethics: Doing the Right Thing by @Rachel_Kam, @birozso and @Jonathan Papworth it was awesome and make me think a lot
+
+** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with hexadecimals.
+I would like to share my progress that I register on Github. Today I want to motivate @sooter @Janelle Hawkes 
+
+[D59]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/59_mid_jam_talks.png
+
+##### MID JAM TALKS
+![ MID JAM TALKS ][D59]
+
 
