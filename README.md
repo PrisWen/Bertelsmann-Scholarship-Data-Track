@@ -604,4 +604,9 @@ I would like to share my progress that I register on Github. Today I want to mot
 ##### MID JAM TALKS
 ![ MID JAM TALKS ][D59]
 
+## Day 60 : February 7 , 2020 | Phone numbers and extra characters in Alteryx
+
+**Today's Progress :**  I am proud to have come this far. Today I reviewed how to deal with phone numbers and extra characters in Alteryx
+
+** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with strings.
 
