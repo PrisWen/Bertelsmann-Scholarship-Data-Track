@@ -578,25 +578,25 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 
 **Today's Progress :** Today I checked this interesting link with a lot of resources about Machine Learning https://www.kaggle.com/getting-started/159945. Also yesterday I applied to mentee I hope to learn more and apply it in projects.
 
-** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
 
 ## Day 57 : February 4 , 2020 | Python Enhancement Proposals
 
 **Today's Progress :** Today I reviewed Python Enhancement Proposals https://www.python.org/dev/peps/ for best programming practices, I want to thank @GEQUN for his comments and the review of my code in the study group #sg_python_community
 
-** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
 
 ## Day 58 : February 5 , 2020 | Analytics with Power BI
 
 **Today's Progress :** Today I practiced some reports with Power BI (Combo chart) https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-combo-chart
 
-** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with timing.
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with timing.
 
 ## Day 59 : February 6 , 2020 | Parsing in Alteryx and Mid Jam talks
 
 **Today's Progress :** Today I reviewed some examples of parsing in Alteryx. I attended the webinar: Everyday Ethics: Doing the Right Thing by @Rachel_Kam, @birozso and @Jonathan Papworth it was awesome and make me think a lot
 
-** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with hexadecimals.
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with hexadecimals.
 I would like to share my progress that I register on Github. Today I want to motivate @sooter @Janelle Hawkes 
 
 [D59]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/59_mid_jam_talks.png
@@ -608,5 +608,10 @@ I would like to share my progress that I register on Github. Today I want to mot
 
 **Today's Progress :**  I am proud to have come this far. Today I reviewed how to deal with phone numbers and extra characters in Alteryx
 
-** Thoughts: ** I am also continuing with the challenges of #sg_python_community, this time with strings.
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with strings.
 
+## Day 61 : February 8 , 2020 | Still learning
+
+**Today's Progress :**  I want to register my progress even though the challenge #60daysofudacity has been completed. Today I used Scikit-learn a free software library used for machine learning  https://scikit-learn.org/stable/modules/linear_model.html#generalized-linear-regression
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with sentences.
