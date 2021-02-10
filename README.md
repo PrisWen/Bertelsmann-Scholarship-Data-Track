@@ -615,3 +615,9 @@ I would like to share my progress that I register on Github. Today I want to mot
 **Today's Progress :**  I want to register my progress even though the challenge #60daysofudacity has been completed. Today I used Scikit-learn a free software library used for machine learning  https://scikit-learn.org/stable/modules/linear_model.html#generalized-linear-regression
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with sentences.
+
+## Day 62 : February 9 , 2020 | Mid Jam Records
+
+**Today's Progress :** I watched the recordings of Mid Jam I am very impressed with all the participation of the Alteryx competition, congratulations to #late_starters
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with strings.
