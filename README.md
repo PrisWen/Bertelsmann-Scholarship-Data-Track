@@ -621,3 +621,10 @@ I would like to share my progress that I register on Github. Today I want to mot
 **Today's Progress :** I watched the recordings of Mid Jam I am very impressed with all the participation of the Alteryx competition, congratulations to #late_starters
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with strings.
+
+## Day 63 : February 10 , 2020 | Treemaps in Power BI
+
+**Today's Progress :** Today I practiced some reports with Power BI (Treemaps)
+https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-treemaps
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time sorting strings.
