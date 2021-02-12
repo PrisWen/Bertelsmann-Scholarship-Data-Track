@@ -628,3 +628,19 @@ I would like to share my progress that I register on Github. Today I want to mot
 https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-treemaps
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time sorting strings.
+
+## Day 64 : February 11 , 2020 | DATAcated
+
+**Today's Progress :** I attended DATAcated Conferences that were 3 days of much learning.
+I tried to solve the practice project 'diamonds' with Python .
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with tuples.
+
+[D64_0]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D64_datacated_0.PNG
+[D64_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D50_duplicate_variablesD64_datacated_1
+
+##### DATAcated 1
+![ DATAcated 1 ][D64_0]
+
+##### DATAcated 3
+![ DATAcated 1 ][D64_1]
