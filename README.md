@@ -644,3 +644,9 @@ I tried to solve the practice project 'diamonds' with Python .
 
 ##### DATAcated 3
 ![ DATAcated 1 ][D64_1]
+
+## Day 65 : February 12 , 2020 | Pearson correlation coefficient
+
+**Today's Progress :** Today I reviewed an interesting link: How to calculate pearson correlation coefficient in Python. https://stackabuse.com/calculating-pearson-correlation-coefficient-in-python-with-numpy/
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with functions that takes a number of different types.
