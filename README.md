@@ -637,16 +637,32 @@ I tried to solve the practice project 'diamonds' with Python .
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with tuples.
 
 [D64_0]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D64_datacated_0.PNG
-[D64_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D50_duplicate_variablesD64_datacated_1
+[D64_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D64_datacated_1.PNG
 
-##### DATAcated 1
-![ DATAcated 1 ][D64_0]
+##### DATAcated day 1
+![ DATAcated day 1 ][D64_0]
 
-##### DATAcated 3
-![ DATAcated 1 ][D64_1]
+##### DATAcated day 3
+![ DATAcated day 3 ][D64_1]
 
 ## Day 65 : February 12 , 2020 | Pearson correlation coefficient
 
 **Today's Progress :** Today I reviewed an interesting link: How to calculate pearson correlation coefficient in Python. https://stackabuse.com/calculating-pearson-correlation-coefficient-in-python-with-numpy/
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with functions that takes a number of different types.
+
+## Day 66 : February 13 , 2020 | Working with categorical features
+
+**Today's Progress :** Today was my first talk in #sg_spanish about how to work with categorical features, thanks to @Edgar Chacon, @Sandra, @Jaime González, @Nicolás Campos and @susyjam for attending. 
+I reviewed an interesting link that @Edgar Chacon recommended 
+https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-why-when-3a7c
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time sorting elements
+
+[D66_0]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D66_talk_categorical.PNG
+[D66_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D66_sg_spanish_8.png
+##### TALK ABOUT CATEGORICAL FEATURES
+![ TALK ABOUT CATEGORICAL FEATURES ][D66_0]
+
+##### SG_SPANISH
+![ SG_SPANISH ][D66_1]
