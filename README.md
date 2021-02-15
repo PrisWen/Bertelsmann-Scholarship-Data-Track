@@ -657,7 +657,7 @@ I tried to solve the practice project 'diamonds' with Python .
 I reviewed an interesting link that @Edgar Chacon recommended 
 https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-why-when-3a7c
 
-**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time sorting elements
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time sorting elements. We #celebrate 60 days with Python challenges, thanks @Gocher for inspiring and supporting us 
 
 [D66_0]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D66_talk_categorical.PNG
 [D66_1]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D66_sg_spanish_8.png
@@ -666,3 +666,10 @@ https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-w
 
 ##### SG_SPANISH
 ![ SG_SPANISH ][D66_1]
+
+## Day 67 : February 14 , 2020 | GLM: Binomial response data
+**Today's Progress :** Today I reviewed GLM: Binomial response data
+https://www.statsmodels.org/stable/examples/notebooks/generated/glm.html
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with Counter. I was surprised to see @Gocher's post with congratulations.
+
