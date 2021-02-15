@@ -671,5 +671,5 @@ https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-w
 **Today's Progress :** Today I reviewed GLM: Binomial response data
 https://www.statsmodels.org/stable/examples/notebooks/generated/glm.html
 
-**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with Counter. I was surprised to see @Gocher's post with congratulations.
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with Counter. I was surprised to see @Gocher's post with congratulations for beeing the only female programmer coding solutions in #sg_python_community
 
