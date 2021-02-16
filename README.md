@@ -673,3 +673,10 @@ https://www.statsmodels.org/stable/examples/notebooks/generated/glm.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with Counter. I was surprised to see @Gocher's post with congratulations for beeing the only female programmer coding solutions in #sg_python_community
 
+## Day 68 : February 15 , 2020 | Python - string format 
+**Today's Progress :** Today I reviewed an interesting link about string format with str.format() of Python 
+https://docs.python.org/3/library/stdtypes.html#str.format
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time printing tuples.
+
+
