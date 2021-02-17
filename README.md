@@ -679,4 +679,11 @@ https://docs.python.org/3/library/stdtypes.html#str.format
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time printing tuples.
 
+## Day 69 : February 16 , 2020 | ML Infrastructure Tools for Data Preparation
+**Today's Progress :** Today I reviewed an interesting link about ML Infrastructure Tools for Data Preparation 
+https://towardsdatascience.com/ml-infrastructure-tools-for-data-preparation-70d79e70f8d4
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with dictionaries.
+
+
 
