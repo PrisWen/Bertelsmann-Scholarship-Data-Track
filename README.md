@@ -685,5 +685,9 @@ https://towardsdatascience.com/ml-infrastructure-tools-for-data-preparation-70d7
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with dictionaries.
 
+## Day 70 : February 17 , 2020 | Dictionaries in Python
+**Today's Progress :** Today I reviewed how to work with dictionaries in Python and the operations that support
+https://docs.python.org/3/library/stdtypes.html?highlight=dict%20get#dict.get
 
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with dictionaries.
 
