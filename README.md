@@ -691,3 +691,8 @@ https://docs.python.org/3/library/stdtypes.html?highlight=dict%20get#dict.get
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with dictionaries.
 
+## Day 71 : February 18 , 2020 | Logistic regression
+**Today's Progress :** Today I reviewed an interesting link about logistic regression
+https://towardsdatascience.com/the-binomial-regression-model-everything-you-need-to-know-5216f1a483d3
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time we continue with dictionaries.
