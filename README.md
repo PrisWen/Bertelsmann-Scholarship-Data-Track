@@ -696,3 +696,10 @@ https://docs.python.org/3/library/stdtypes.html?highlight=dict%20get#dict.get
 https://towardsdatascience.com/the-binomial-regression-model-everything-you-need-to-know-5216f1a483d3
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time we continue with dictionaries.
+
+## Day 72 : February 19 , 2020 | Set Types
+**Today's Progress :** Today I reviewed Set Types in Python 
+https://docs.python.org/3/library/stdtypes.html?highlight=set#set
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with sets
+
