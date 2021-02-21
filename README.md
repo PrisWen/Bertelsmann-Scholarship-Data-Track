@@ -697,9 +697,15 @@ https://towardsdatascience.com/the-binomial-regression-model-everything-you-need
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time we continue with dictionaries.
 
-## Day 72 : February 19 , 2020 | Set Types
+## Day 72 : February 19 , 2020 | Set Types in Python
 **Today's Progress :** Today I reviewed Set Types in Python 
 https://docs.python.org/3/library/stdtypes.html?highlight=set#set
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with sets
+
+## Day 73 : February 20 , 2020 | Recommender systems
+**Today's Progress :** Today I reviewed an interesting link about recommender systems
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with files
 
