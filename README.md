@@ -709,3 +709,11 @@ https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with files
 
+## Day 74 : February 21 , 2021 | Mother Language Day
+**Today's Progress :** Today #introductions channel organized tongue twisters for Mother Language Day, it was a fun activity that I loved participating. @Candy @Syed Haider Ali Shah @James Kaoma thank you for organizing the event and the participants @Oluwatosin @Jessy Chen @Sandra @Asad.Udacity @Aastha gautam @Sumaiya @Jens Gaulke  @Agnes @Yuhan Zhang @Halenur Gurpinar 
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with files
+
+[D74]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D74_mother_language_day.png
+##### FUN ACTIVITY #INTRODUCTIONS CHANNEL
+![ FUN ACTIVITY #INTRODUCTIONS CHANNEL ][D74]
