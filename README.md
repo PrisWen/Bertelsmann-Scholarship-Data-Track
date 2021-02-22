@@ -270,13 +270,13 @@ I understood the explanation about tools, configuration panel and canvas
 ##### INTRODUCTION ALTERYX
 ![ INTRODUCTION ALTERYX ][D22]
 
-## Day 23 : January 1 , 2020 | Alteryx tutorials
+## Day 23 : January 1 , 2021 | Alteryx tutorials
 
 **Today's Progress :** Today I did a tutorial review on Alteryx, it is a very useful tool
 
 **Thoughts :** I like to learn something new every day
 
-## Day 24 : January 2 , 2020 | Alteryx workflow
+## Day 24 : January 2 , 2021 | Alteryx workflow
 
 **Today's Progress :** Today I did a workflow to load data into Alteryx
 
@@ -287,7 +287,7 @@ I understood the explanation about tools, configuration panel and canvas
 ##### ALTERYX WORKFLOW
 ![ ALTERYX WORKFLOW][D24]
 
-## Day 25 : January 3 , 2020 | First model with linear regression
+## Day 25 : January 3 , 2021 | First model with linear regression
 
 **Today's Progress :** Today I did my first model with linear regression
 
@@ -298,14 +298,14 @@ I understood the explanation about tools, configuration panel and canvas
 ##### ALTERYX WORKFLOW
 ![ ALTERYX WORKFLOW][D25]
 
-## Day 26 : January 4 , 2020 | Evaluating an equation
+## Day 26 : January 4 , 2021 | Evaluating an equation
 
 **Today's Progress :** Today I reviewed "Evaluating an equation"
 I used the coefficients of the linear regression model
 
 **Thoughts :** Almost finishing the third lesson
 
-## Day 27 : January 5 , 2020 | Summary of lesson 3 Linear Regression
+## Day 27 : January 5 , 2021 | Summary of lesson 3 Linear Regression
 
 **Today's Progress :** Today I did a summary of lesson 3 Linear Regression
 
@@ -316,7 +316,7 @@ I used the coefficients of the linear regression model
 ##### LINEAR REGRESSION PLAYBOOK
 ![ LINEAR REGRESSION PLAYBOOK ][D27]
 
-## Day 28 : January 6 , 2020 | New Alteryx tools
+## Day 28 : January 6 , 2021 | New Alteryx tools
 
 **Today's Progress :** Today I learned how to deal with null values, Alteryx has interestings tools
 
@@ -327,20 +327,20 @@ I used the coefficients of the linear regression model
 ##### NEW ALTERYX TOOLS
 ![ NEW ALTERYX TOOLS ][D28]
 
-## Day 29 : January 7 , 2020 | Practice Project Details
+## Day 29 : January 7 , 2021 | Practice Project Details
 
 **Today's Progress :** Today I reviewed "Practice Project Details". 
 I finally got to the project Predicting Diamond Prices
 
 **Thoughts :** I am following the steps and hope I can solve it
 
-## Day 30 : January 8 , 2020 | Working in the project
+## Day 30 : January 8 , 2021 | Working in the project
 
 **Today's Progress :** I am still working in the project
 
 **Thoughts :** Alteryx tools are very useful. Also since yesterday I began to solve the exercises of the challenge of #sg_python_community
 
-## Day 31 : January 9 , 2020 | Input and Visualize Data
+## Day 31 : January 9 , 2021 | Input and Visualize Data
 
 **Today's Progress :** Today I reviewed "Input and Visualize Data". 
 I loved the way the graphics are displayed
@@ -353,21 +353,21 @@ I am also continuing with the challenges of #sg_python_community
 ##### VISUALIZE DATA
 ![ VISUALIZE DATA ][D31]
 
-## Day 32 : January 10 , 2020 | Build the model
+## Day 32 : January 10 , 2021 | Build the model
 
 **Today's Progress :** Today I reviewed "Build the model". 
 With linear regression tool of Alteryx we can choose target variable
 
 **Thoughts :** Also yesterday I participated in the group activity #sg_weekend_club and I continue with the challenge of #sg_python_community
 
-## Day 33 : January 11 , 2020 | Score the Model
+## Day 33 : January 11 , 2021 | Score the Model
 
 **Today's Progress :** Today I reviewed "Score the Model". 
 I had some issues with Alteryx, I will try to see tutorials to calculate the score
 
 **Thoughts :** I continue with the challenge of #sg_python_community
 
-## Day 34 : January 12 , 2020 | Practice project
+## Day 34 : January 12 , 2021 | Practice project
 
 **Today's Progress :** Finally I finished the practice project of predicting the price of diamonds
 
@@ -378,28 +378,28 @@ I had some issues with Alteryx, I will try to see tutorials to calculate the sco
 ##### PRACTICE PROJECT
 ![ PRACTICE PROJECT ][D34]
 
-## Day 35 : January 13 , 2020 | Project overview
+## Day 35 : January 13 , 2021 | Project overview
 
 **Today's Progress :** Today I reviewed "Project overview".
 The project is about mail-order catalog business and predict how much money they can expect to earn from sending out a catalog
 
 **Thoughts :** After a month and a few days I got here, this is exciting. I continue with the challenge of #sg_python_community
 
-## Day 36 : January 14 , 2020 | Project details
+## Day 36 : January 14 , 2021 | Project details
 
 **Today's Progress :** Today I reviewed "Project details".
 There are useful steps to success!
 
 **Thoughts :** Today I participated in the AMA session. I continue with the challenge of #sg_python_community with dictionaries
 
-## Day 37 : January 15 , 2020 | Supporting Materials
+## Day 37 : January 15 , 2021 | Supporting Materials
 
 **Today's Progress :** Today I reviewed "Supporting Materials".
 There is a project rubric and a explanation about the dataset
 
 **Thoughts :** I continue with the challenge of #sg_python_community with dictionaries
 
-## Day 38 : January 16 , 2020 | Tips
+## Day 38 : January 16 , 2021 | Tips
 
 **Today's Progress :** Today I reviewed "Tips".
 In the lesson they recommend us to make a project checklist
@@ -407,27 +407,27 @@ In the lesson they recommend us to make a project checklist
 **Thoughts :** This optional project is helping me understand and apply everything I have learned. Yesteday I applied as a volunteer to the Study Jam. I want to thank @Nicolás Campos for his presentation and the members of the group sg_spanish @Viena Baca @Edgar Chacon @Joaquin @Sandra @Jaime González @Ninon Aguilera @susyjam @Priscila Espinoza
 I continue with the challenge of #sg_python_community with dictionaries. 
 
-## Day 39 : January 17 , 2020 | Reviewed the lessons
+## Day 39 : January 17 , 2021 | Reviewed the lessons
 
 **Today's Progress :** Today I reviewed the lessons to solve the project in Alteryx.
 I also read an interesting link about accuracy, precision, recall F-1 score: https://steemit.com/spanish/@waster/explicacion-alternativa-para-accuracy-precision-recall-y-f1-score)
 
 **Thoughts :** I continue with the challenge of #sg_python_community with dictionaries. 
 
-## Day 40 : January 18 , 2020 | Reviewed the lessons and metrics
+## Day 40 : January 18 , 2021 | Reviewed the lessons and metrics
 
 **Today's Progress :** Today I reviewed the lessons to solve the project in Alteryx.
 I also read an interesting link about selecting metrics for machine learning https://fayrix.com/machine-learning-metrics_es
 
 **Thoughts :** I continue with the challenge of #sg_python_community with files. 
 
-## Day 41 : January 19 , 2020 | Reviewed resources
+## Day 41 : January 19 , 2021 | Reviewed resources
 
 **Today's Progress :** Today I reviewed some resources to solve the project in Alteryx. I also read an interesting link about imbalanced data https://machinelearningmastery.com/random-oversampling-and-undersampling-for-imbalanced-classification/
 
 **Thoughts :** I continue with the challenge of #sg_python_community with files. 
 
-## Day 42 : January 20 , 2020 | Reviewed resources and solving project
+## Day 42 : January 20 , 2021 | Reviewed resources and solving project
 
 **Today's Progress :** Today I started solving the project in Alteryx. I also read an interesting link about categorical data https://contactsunny.medium.com/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621
 
@@ -435,19 +435,19 @@ I also read an interesting link about selecting metrics for machine learning htt
 We also had a first meeting with the group #sg_spanish_english, thanks to @PuzzleDots @Pedro @Dragana Jovancevic @maibelca @susyjam and @Edgar Chacon
 Today I want to motivate @Shariq Lalani @Arcy Flores 
 
-## Day 43 : January 21 , 2020 | Reviewed resources and solving project d2
+## Day 43 : January 21 , 2021 | Reviewed resources and solving project d2
 
 **Today's Progress :** I continue solving the project in Alteryx. I also read an interesting link about what is the Difference Between Test and Validation Datasets https://machinelearningmastery.com/difference-test-validation-datasets/
 
 **Thoughts :** I continue with the challenge of #sg_python_community with files. 
 
-## Day 44 : January 22 , 2020 | Study Jam 
+## Day 44 : January 22 , 2021 | Study Jam 
 
 **Today's Progress :** As a volunteer today I was working on material for Study Jam, specifically to support lesson 1 The analytical problem
 
 **Thoughts :** I am looking forward to all the Study Jam activities, which is a great opportunity. I continue with the challenge of #sg_python_community with files. 
 
-## Day 45 : January 23 , 2020 | Study Jam Day
+## Day 45 : January 23 , 2021 | Study Jam Day
 
 **Today's Progress :** As a Tech AMA volunteer for Study Jam #l1_analytical_problem channel I support the schedule of 11 PM - 1 AM GMT in this time I shared a fun quiz and I created a graphic in order to understand the CRISP-DM process
 
@@ -486,14 +486,14 @@ Many thanks to @Jonathan Papworth @Esma for this initiative and to all the peopl
 ![ Workshop: Introduction to Data Visualization with Excel ][D45_6]
 
 
-## Day 46 : January 24 , 2020 | Working on the final project
+## Day 46 : January 24 , 2021 | Working on the final project
 
 **Today's Progress :** Today I continue with the final project 
 
 **Thoughts :** Today we had an activity in the group #sg_spanish with  @Edgar Chacon @Gustavo @Jaime González @Rodrigo @Ysabel Nava @N. Lionel and @susyjam thanks for sharing and learning together
 I am also continuing with the challenges of #sg_python_community with files, this time we work giving feedback in pairs
 
-## Day 47 : January 25 , 2020 | Final project finished
+## Day 47 : January 25 , 2021 | Final project finished
 
 **Today's Progress :** I am very happy because I finally finished the final project "Predicting Catalog Demand". 
 
@@ -506,13 +506,13 @@ I am also continuing with the challenges of #sg_python_community with files, thi
 ![ REVENUE FINAL PROJECT ][D47]
 
 
-## Day 48 : January 26 , 2020 | Reviewed the lessons and take notes
+## Day 48 : January 26 , 2021 | Reviewed the lessons and take notes
 
 **Today's Progress :** Today I reviewed the lessons to take more notes to better understand the topics
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with files, this time we work giving feedback in pairs
 
-## Day 49 : January 27 , 2020 | Classification models course
+## Day 49 : January 27 , 2021 | Classification models course
 
 **Today's Progress :** Today I want to thank @Gustavo because he inspired me to learn more, I am taking the course "Classification models" from Udacity
 
@@ -524,7 +524,7 @@ I am also continuing with the challenges of #sg_python_community with files, thi
 ##### BINARY OR NOT BINARY
 ![ BINARY OR NOT BINARY ][D49]
 
-## Day 50 : January 28 , 2020 | Selecting predictor variables
+## Day 50 : January 28 , 2021 | Selecting predictor variables
 
 **Today's Progress :** Continuing with the classification course, today I learned how to select predictor variables and avoid duplicate variables.
 
@@ -536,14 +536,14 @@ I am also continuing with the challenges of #sg_python_community with recursion,
 ##### DUPLICATE VARIABLES
 ![ DUPLICATE VARIABLES ][D50]
 
-## Day 51 : January 29 , 2020 | Generalized Linear Models
+## Day 51 : January 29 , 2021 | Generalized Linear Models
 
 **Today's Progress :** Today I learned about "Generalized Linear Models" a python library that is useful to calculate coefficients like reports in Alteryx
 https://www.statsmodels.org/stable/glm.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
 
-## Day 52 : January 30 , 2020 | Classification Problems: Correlation
+## Day 52 : January 30 , 2021 | Classification Problems: Correlation
 
 **Today's Progress :** Continuing with the classification course, today I reviewed about correlation between variables. Also I read and practiced with the correlation tutorial: https://realpython.com/numpy-scipy-pandas-correlation-python/
 Today we had an activity in the group #sg_spanish with @Jaime González @Nicolás Campos @Sandra @susyjam @Priscila Espinoza thanks for sharing and learning together
@@ -556,43 +556,43 @@ Today we had an activity in the group #sg_spanish with @Jaime González @Nicolá
 ##### CORRELATION
 ![ CORRELATION ][D52]
 
-## Day 53 : January 31 , 2020 | Kaggle databases
+## Day 53 : January 31 , 2021 | Kaggle databases
 
 **Today's Progress :** Today review databases in Kaggle to start a project and put into practice what you have learned in the course.
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
 
-## Day 54 : February 1 , 2020 | Correlation plots in Alteryx
+## Day 54 : February 1 , 2021 | Correlation plots in Alteryx
 
 **Today's Progress :** Continuing with the classification course, today I reviewed about correlation plots in Alteryx, that can be easily generated.
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
 
-## Day 55 : February 2 , 2020 | How to deal with dirty data 
+## Day 55 : February 2 , 2021 | How to deal with dirty data 
 
 **Today's Progress :** Today I reviewed Lesson 2 of the course Creating an Analytical Dataset and I learned how to deal with dirty data 
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community with recursion, this time we work giving feedback in pairs
 
-## Day 56 : February 3 , 2020 | Resources Kaggle ML
+## Day 56 : February 3 , 2021 | Resources Kaggle ML
 
 **Today's Progress :** Today I checked this interesting link with a lot of resources about Machine Learning https://www.kaggle.com/getting-started/159945. Also yesterday I applied to mentee I hope to learn more and apply it in projects.
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
 
-## Day 57 : February 4 , 2020 | Python Enhancement Proposals
+## Day 57 : February 4 , 2021 | Python Enhancement Proposals
 
 **Today's Progress :** Today I reviewed Python Enhancement Proposals https://www.python.org/dev/peps/ for best programming practices, I want to thank @GEQUN for his comments and the review of my code in the study group #sg_python_community
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with numeric types.
 
-## Day 58 : February 5 , 2020 | Analytics with Power BI
+## Day 58 : February 5 , 2021 | Analytics with Power BI
 
 **Today's Progress :** Today I practiced some reports with Power BI (Combo chart) https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-combo-chart
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with timing.
 
-## Day 59 : February 6 , 2020 | Parsing in Alteryx and Mid Jam talks
+## Day 59 : February 6 , 2021 | Parsing in Alteryx and Mid Jam talks
 
 **Today's Progress :** Today I reviewed some examples of parsing in Alteryx. I attended the webinar: Everyday Ethics: Doing the Right Thing by @Rachel_Kam, @birozso and @Jonathan Papworth it was awesome and make me think a lot
 
@@ -604,32 +604,32 @@ I would like to share my progress that I register on Github. Today I want to mot
 ##### MID JAM TALKS
 ![ MID JAM TALKS ][D59]
 
-## Day 60 : February 7 , 2020 | Phone numbers and extra characters in Alteryx
+## Day 60 : February 7 , 2021 | Phone numbers and extra characters in Alteryx
 
 **Today's Progress :**  I am proud to have come this far. Today I reviewed how to deal with phone numbers and extra characters in Alteryx
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with strings.
 
-## Day 61 : February 8 , 2020 | Still learning
+## Day 61 : February 8 , 2021 | Still learning
 
 **Today's Progress :**  I want to register my progress even though the challenge #60daysofudacity has been completed. Today I used Scikit-learn a free software library used for machine learning  https://scikit-learn.org/stable/modules/linear_model.html#generalized-linear-regression
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with sentences.
 
-## Day 62 : February 9 , 2020 | Mid Jam Records
+## Day 62 : February 9 , 2021 | Mid Jam Records
 
 **Today's Progress :** I watched the recordings of Mid Jam I am very impressed with all the participation of the Alteryx competition, congratulations to #late_starters
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with strings.
 
-## Day 63 : February 10 , 2020 | Treemaps in Power BI
+## Day 63 : February 10 , 2021 | Treemaps in Power BI
 
 **Today's Progress :** Today I practiced some reports with Power BI (Treemaps)
 https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-treemaps
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time sorting strings.
 
-## Day 64 : February 11 , 2020 | DATAcated
+## Day 64 : February 11 , 2021 | DATAcated
 
 **Today's Progress :** I attended DATAcated Conferences that were 3 days of much learning.
 I tried to solve the practice project 'diamonds' with Python .
@@ -645,13 +645,13 @@ I tried to solve the practice project 'diamonds' with Python .
 ##### DATAcated day 3
 ![ DATAcated day 3 ][D64_1]
 
-## Day 65 : February 12 , 2020 | Pearson correlation coefficient
+## Day 65 : February 12 , 2021 | Pearson correlation coefficient
 
 **Today's Progress :** Today I reviewed an interesting link: How to calculate pearson correlation coefficient in Python. https://stackabuse.com/calculating-pearson-correlation-coefficient-in-python-with-numpy/
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with functions that takes a number of different types.
 
-## Day 66 : February 13 , 2020 | Working with categorical features
+## Day 66 : February 13 , 2021 | Working with categorical features
 
 **Today's Progress :** Today was my first talk in #sg_spanish about how to work with categorical features, thanks to @Edgar Chacon, @Sandra, @Jaime González, @Nicolás Campos and @susyjam for attending. 
 I reviewed an interesting link that @Edgar Chacon recommended 
@@ -667,43 +667,43 @@ https://dev.to/rokaandy/logarithmic-transformation-in-linear-regression-models-w
 ##### SG_SPANISH
 ![ SG_SPANISH ][D66_1]
 
-## Day 67 : February 14 , 2020 | GLM: Binomial response data
+## Day 67 : February 14 , 2021 | GLM: Binomial response data
 **Today's Progress :** Today I reviewed GLM: Binomial response data
 https://www.statsmodels.org/stable/examples/notebooks/generated/glm.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with Counter. I was surprised to see @Gocher's post with congratulations for beeing the only female programmer coding solutions in #sg_python_community
 
-## Day 68 : February 15 , 2020 | Python - string format 
+## Day 68 : February 15 , 2021 | Python - string format 
 **Today's Progress :** Today I reviewed an interesting link about string format with str.format() of Python 
 https://docs.python.org/3/library/stdtypes.html#str.format
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time printing tuples.
 
-## Day 69 : February 16 , 2020 | ML Infrastructure Tools for Data Preparation
+## Day 69 : February 16 , 2021 | ML Infrastructure Tools for Data Preparation
 **Today's Progress :** Today I reviewed an interesting link about ML Infrastructure Tools for Data Preparation 
 https://towardsdatascience.com/ml-infrastructure-tools-for-data-preparation-70d79e70f8d4
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with dictionaries.
 
-## Day 70 : February 17 , 2020 | Dictionaries in Python
+## Day 70 : February 17 , 2021 | Dictionaries in Python
 **Today's Progress :** Today I reviewed how to work with dictionaries in Python and the operations that support
 https://docs.python.org/3/library/stdtypes.html?highlight=dict%20get#dict.get
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with dictionaries.
 
-## Day 71 : February 18 , 2020 | Logistic regression
+## Day 71 : February 18 , 2021 | Logistic regression
 **Today's Progress :** Today I reviewed an interesting link about logistic regression
 https://towardsdatascience.com/the-binomial-regression-model-everything-you-need-to-know-5216f1a483d3
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time we continue with dictionaries.
 
-## Day 72 : February 19 , 2020 | Set Types in Python
+## Day 72 : February 19 , 2021 | Set Types in Python
 **Today's Progress :** Today I reviewed Set Types in Python 
 https://docs.python.org/3/library/stdtypes.html?highlight=set#set
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with sets
 
-## Day 73 : February 20 , 2020 | Recommender systems
+## Day 73 : February 20 , 2021 | Recommender systems
 **Today's Progress :** Today I reviewed an interesting link about recommender systems
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 
