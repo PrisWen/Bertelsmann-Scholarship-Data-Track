@@ -717,3 +717,9 @@ https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 [D74]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D74_mother_language_day.png
 ##### FUN ACTIVITY #INTRODUCTIONS CHANNEL
 ![ FUN ACTIVITY #INTRODUCTIONS CHANNEL ][D74]
+
+## Day 75 : February 22 , 2021 | Data Structures in Python
+**Today's Progress :** Today I reviewed an interesting link about data structures in Python
+https://docs.python.org/3/tutorial/datastructures.html
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with text files
