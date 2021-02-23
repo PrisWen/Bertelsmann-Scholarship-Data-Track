@@ -1,0 +1,14 @@
+hydrogen
+helium
+lithium
+beryllium
+boron
+sa
+carbon
+nitrogen
+oxygen
+fluorine
+laa
+neon
+sodium
+si
