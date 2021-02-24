@@ -723,3 +723,9 @@ https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 https://docs.python.org/3/tutorial/datastructures.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with text files
+
+## Day 76 : February 23 , 2021 | Decision tree implementation using Python
+**Today's Progress :** Today I reviewed an interesting link about Decision tree implementation using Python
+https://www.geeksforgeeks.org/decision-tree-implementation-python/
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with multiple files
