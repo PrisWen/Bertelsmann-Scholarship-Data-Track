@@ -729,3 +729,12 @@ https://docs.python.org/3/tutorial/datastructures.html
 https://www.geeksforgeeks.org/decision-tree-implementation-python/
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with multiple files
+
+## Day 77 : February 24 , 2021 | The csv module in Python
+**Today's Progress :** Today I reviewed an interesting link about csv module in Python
+https://docs.python.org/3/library/csv.html
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with csv files
+
+
+
