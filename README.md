@@ -736,5 +736,8 @@ https://docs.python.org/3/library/csv.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with csv files
 
+## Day 78 : February 25 , 2021 | JSON
+**Today's Progress :** Today I reviewed JSON format for data exchange http://json.org/ and Python standard library https://docs.python.org/3/library/json.html?#module-json
 
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with JSON files
 
