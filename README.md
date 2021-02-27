@@ -741,3 +741,8 @@ https://docs.python.org/3/library/csv.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with JSON files
 
+## Day 79 : February 26 , 2021 | A/B Testing
+**Today's Progress :** Today I learned more about A/B Testing. https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with JSON files
+
