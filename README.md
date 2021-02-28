@@ -746,3 +746,13 @@ https://docs.python.org/3/library/csv.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with JSON files
 
+## Day 80 : February 27 , 2021 | Scatter plot and Optimization
+**Today's Progress :** Today I practiced with some graphics with Scatter plot
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+
+**Thoughts :** Today we had an activity in the study group #sg_spanish with @Nicolás Campos @Sandra @susyjam @Priscila Espinoza, @Edgar Chacon he did a great presentation about Optimization, thanks for sharing and learning together.
+I am also continuing with the challenges of #sg_python_community, this time with XML files
+
+[D80]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D80_sg_spanish.PNG
+##### ACTIVITY #SG_SPANISH
+![ ACTIVITY #SG_SPANISH][D80]
