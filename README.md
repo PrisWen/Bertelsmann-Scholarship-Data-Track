@@ -756,3 +756,8 @@ I am also continuing with the challenges of #sg_python_community, this time with
 [D80]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D80_sg_spanish.PNG
 ##### ACTIVITY #SG_SPANISH
 ![ ACTIVITY #SG_SPANISH][D80]
+
+## Day 81 : February 28 , 2021 | Bar plots
+**Today's Progress :** Today I practiced graphics with Bar plot.  https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with prefix notation.
