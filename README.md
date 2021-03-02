@@ -761,3 +761,13 @@ I am also continuing with the challenges of #sg_python_community, this time with
 **Today's Progress :** Today I practiced graphics with Bar plot.  https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with prefix notation.
+
+## Day 82 : March 1 , 2021 | ROC AUC from prediction scores
+**Today's Progress :** Yesteday I forgot to thank @Asad.Udacity for the Data Analytics Quiz. Today I learned about Receiver Operating Characteristic Curve (ROC AUC) from prediction scores.
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with strings.
+
+[D81]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D81_quiz.PNG
+##### DATA ANALYTICS QUIZ
+![ DATA ANALYTICS QUIZ ][D81]
