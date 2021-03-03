@@ -771,3 +771,8 @@ https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.
 [D81]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/D81_quiz.PNG
 ##### DATA ANALYTICS QUIZ
 ![ DATA ANALYTICS QUIZ ][D81]
+
+## Day 83 : March 2 , 2021 | List to a String in Python with join
+**Today's Progress :** Today I practiced with a powerful way to join strings together, list to a string in Python with .join()
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community.
