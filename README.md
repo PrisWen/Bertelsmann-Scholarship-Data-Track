@@ -776,3 +776,9 @@ https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.
 **Today's Progress :** Today I practiced with a powerful way to join strings together, list to a string in Python with .join()
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community.
+
+## Day 84 : March 3 , 2021 | Study group spanish english
+**Today's Progress :** Today we had a meeting with the study group #sg_spanish_english thanks to @PuzzleDots and @Pedro for sharing your knowledge. 
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community. And I learned how to use the function isdigit() of Python.
+https://docs.python.org/3/library/stdtypes.html?highlight=isdigit#str.isdigit
