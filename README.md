@@ -782,3 +782,9 @@ https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community. And I learned how to use the function isdigit() of Python.
 https://docs.python.org/3/library/stdtypes.html?highlight=isdigit#str.isdigit
+
+## Day 85 : March 4 , 2021 | How to Choose the Data Science Program
+**Today's Progress :** Today I read an interesting article about how to choose a data science program. 
+https://www.udacity.com/blog/2019/03/how-to-choose-data-science-program-right-for-you.html
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community.
