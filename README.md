@@ -788,3 +788,9 @@ https://docs.python.org/3/library/stdtypes.html?highlight=isdigit#str.isdigit
 https://www.udacity.com/blog/2019/03/how-to-choose-data-science-program-right-for-you.html
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community.
+
+## Day 86 : March 5 , 2021 | How to choose a ML model
+**Today's Progress :** Today I read an interesting article about how to choose a ML model.
+https://www.datasciencecentral.com/profiles/blogs/how-to-choose-a-machine-learning-model-some-guidelines
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with list comprenhension. I am excited because in a few hours Study Jam begins
