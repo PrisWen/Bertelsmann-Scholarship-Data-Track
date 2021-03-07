@@ -794,3 +794,30 @@ https://www.udacity.com/blog/2019/03/how-to-choose-data-science-program-right-fo
 https://www.datasciencecentral.com/profiles/blogs/how-to-choose-a-machine-learning-model-some-guidelines
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with list comprenhension. I am excited because in a few hours Study Jam begins
+
+## Day 87 : March 6 , 2021 | Study Jam 2.0
+**Today's Progress :** Today is a great day. More than 10 hours participating in the wonderful activities of Study Jam 2.0 
+As an attendant :
+	-International Women's Day Celebration @Rachel_Kam @Lujain Kotb @Ankita Ghosh
+	-Linear Regression in Python using Statsmodels @Vin / @Oluwatuyi Olowoyeye
+	-Exploring various data career/roles @Tife / @Quyen Nguyen / @Charles Van-Hein Sackey
+	-Using the Voice to Predict Emotions @Carlo Ertola
+	-Creating Analytical Apps in Alteryx @Ebinbin Ajagun @Oluwatosin @Toxylee @Sarumi Bolatito @Uzodimma @Ilufoyehabib
+	-Excel Data Analytics Demo- Example Project @Andrew Lawe
+
+As a volunteer for tech_ama :
+	-Fun mini activity with question #l2_analytical_framework channel 
+
+Fun activities :
+	-Quiz quizzis @Aninda
+	-Quiz with recognition @shereen bashar 
+	-Bingo @susyjam
+	-Selfie Challenge  #introductions
+
+Thank you very much for organizing @Jonathan Papworth @Gurpreet Kaur @Ankita Ghosh @birozso @Rachel_Kam @Grace.Udacity
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with dicts. 
+
+[D87]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/87_StudyJam2-collage2.jpg
+##### ACTIVITIES STUDY JAM 2.0
+![ ACTIVITIES STUDY JAM 2.0 ][D87]
