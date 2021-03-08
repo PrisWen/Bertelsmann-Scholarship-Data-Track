@@ -793,7 +793,7 @@ https://www.udacity.com/blog/2019/03/how-to-choose-data-science-program-right-fo
 **Today's Progress :** Today I read an interesting article about how to choose a ML model.
 https://www.datasciencecentral.com/profiles/blogs/how-to-choose-a-machine-learning-model-some-guidelines
 
-**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with list comprenhension. I am excited because in a few hours Study Jam begins
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with list comprehension. I am excited because in a few hours Study Jam begins
 
 ## Day 87 : March 6 , 2021 | Study Jam 2.0
 **Today's Progress :** Today is a great day. More than 10 hours participating in the wonderful activities of Study Jam 2.0 
@@ -821,3 +821,9 @@ Thank you very much for organizing @Jonathan Papworth @Gurpreet Kaur @Ankita Gho
 [D87]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/87_StudyJam2-collage2.jpg
 ##### ACTIVITIES STUDY JAM 2.0
 ![ ACTIVITIES STUDY JAM 2.0 ][D87]
+
+## Day 88 : March 6 , 2021 | Lists comprehension Python
+**Today's Progress :** Today I practiced with list comprehension in Python, here is the link 
+https://www.w3schools.com/python/python_lists_comprehension.asp
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with a function as an argument.
