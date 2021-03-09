@@ -822,8 +822,15 @@ Thank you very much for organizing @Jonathan Papworth @Gurpreet Kaur @Ankita Gho
 ##### ACTIVITIES STUDY JAM 2.0
 ![ ACTIVITIES STUDY JAM 2.0 ][D87]
 
-## Day 88 : March 6 , 2021 | Lists comprehension Python
+## Day 88 : March 7 , 2021 | Lists comprehension Python
 **Today's Progress :** Today I practiced with list comprehension in Python, here is the link 
 https://www.w3schools.com/python/python_lists_comprehension.asp
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with a function as an argument.
+
+## Day 89 : March 8 , 2021 | Review lesson 1
+**Today's Progress :** Today I reviewed Lesson 1: The analytical problem
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with set comprehension. 
+Today I want to motivate @Sumaiya @Julie @Frida @susyjam @Jessy Chen @LauraT @Sandra @Sumnima Thapa 
+And happy International Women's Day
