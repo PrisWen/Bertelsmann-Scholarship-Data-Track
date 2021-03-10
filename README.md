@@ -834,3 +834,8 @@ https://www.w3schools.com/python/python_lists_comprehension.asp
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with set comprehension. 
 Today I want to motivate @Sumaiya @Julie @Frida @susyjam @Jessy Chen @LauraT @Sandra @Sumnima Thapa 
 And happy International Women's Day
+
+## Day 90 : March 9 , 2021 | Review lesson 2 and 3
+**Today's Progress :** Today I reviewed Lesson 2: Selecting an Analytical Framework and Lesson 3: Linear Regression
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with modules.
