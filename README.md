@@ -839,3 +839,14 @@ And happy International Women's Day
 **Today's Progress :** Today I reviewed Lesson 2: Selecting an Analytical Framework and Lesson 3: Linear Regression
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with modules.
+
+## Day 91 : March 10 , 2021 | Review lesson 4 and Story Challenge
+**Today's Progress :** Today I reviewed Lesson 4: Practice project.
+
+**Thoughts :** It is a happy day because I have been chosen as one of the finalist in the Student Stories Challenge, I especially want to thank Jacqueline Mejia (@susyjam) because she inspiring me and motivating me to apply to the scholarship. If you like my story you can support me with your vote 
+I am also continuing with the challenges of #sg_python_community, this time with key arguments.
+Today I want to motivate @Mike Hayes @Nuria Andrea Malet Quintar @MrLeyva @Emediong Amos @Augustine Ohilebo @Gustavo @Shariq Lalani @Viena Baca @Vedanth Baliga 
+
+[D91]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/91_story_challenge.PNG
+##### FINALIST STUDENT STORIES CHALLENGE
+![ FINALIST STUDENT STORIES CHALLENGE ][D91]
