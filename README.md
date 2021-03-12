@@ -850,3 +850,8 @@ Today I want to motivate @Mike Hayes @Nuria Andrea Malet Quintar @MrLeyva @Emedi
 [D91]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/91_story_challenge.PNG
 ##### FINALIST STUDENT STORIES CHALLENGE
 ![ FINALIST STUDENT STORIES CHALLENGE ][D91]
+
+## Day 92 : March 11 , 2021 | Review lesson 5
+**Today's Progress :** Today I reviewed Lesson 5: Project (Optional) : Predicting Catalog Demand
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with objects.
