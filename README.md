@@ -855,3 +855,8 @@ Today I want to motivate @Mike Hayes @Nuria Andrea Malet Quintar @MrLeyva @Emedi
 **Today's Progress :** Today I reviewed Lesson 5: Project (Optional) : Predicting Catalog Demand
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with objects.
+
+## Day 93 : March 12 , 2021 | Grace Day and the End of Program Party
+**Today's Progress :** Today was the Grace Day and the End of Program Party. It is an honor and pleasure to be part of this pleasant community, thank you for all the support.
+
+**Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with objects.
