@@ -860,3 +860,9 @@ Today I want to motivate @Mike Hayes @Nuria Andrea Malet Quintar @MrLeyva @Emedi
 **Today's Progress :** Today was the Grace Day and the End of Program Party. It is an honor and pleasure to be part of this pleasant community, thank you for all the support.
 
 **Thoughts :** I am also continuing with the challenges of #sg_python_community, this time with objects.
+
+## Day 94 : March 13 , 2021 | Top 10 Data Analytics Tools
+**Today's Progress :** Today I reviewed an interesting link about Data Analytics Tools 
+https://www.edureka.co/blog/top-10-data-analytics-tools/
+
+**Thoughts :** We finalize the challenges of #sg_python_community, 89 days of fun with coding in Python. Thanks @Gocher for your dedication, it was an honor to participate day by day in every challenge.
