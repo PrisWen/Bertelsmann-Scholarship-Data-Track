@@ -866,3 +866,13 @@ Today I want to motivate @Mike Hayes @Nuria Andrea Malet Quintar @MrLeyva @Emedi
 https://www.edureka.co/blog/top-10-data-analytics-tools/
 
 **Thoughts :** We finalize the challenges of #sg_python_community, 89 days of fun with coding in Python. Thanks @Gocher for your dedication, it was an honor to participate day by day in every challenge.
+
+## Day 95 : March 14 , 2021 | sg spanish and byte size gallery
+**Today's Progress :** Today we had the last meeting of the study group #sg_spanish, I learned a lot and  it was a pleasure to share with  @susyjam @Sandra @Edgar Chacon @Nicolás Campos @Joaquin @Priscila Espinoza
+I will miss you so much
+**Thoughts :** I loved participating in the activity, I share my infographic
+https://www.notion.so/Predictive-and-Non-predictive-Analytics-by-Priscila-Espinoza-437599a53ff448878d214f457c756dc2
+
+[D95]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/95_sg_spanish.PNG
+##### SG SPANISH BEST STUDY GROUP
+![ SG SPANISH BEST STUDY GROUP ][D95]
