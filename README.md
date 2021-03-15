@@ -873,6 +873,6 @@ I will miss you so much
 **Thoughts :** I loved participating in the activity, I share my infographic
 https://www.notion.so/Predictive-and-Non-predictive-Analytics-by-Priscila-Espinoza-437599a53ff448878d214f457c756dc2
 
-[D95]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/95_sg_spanish.PNG
+[D95]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/95_sg_spanish.png
 ##### SG SPANISH BEST STUDY GROUP
 ![ SG SPANISH BEST STUDY GROUP ][D95]
