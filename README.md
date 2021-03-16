@@ -880,5 +880,9 @@ https://www.notion.so/Predictive-and-Non-predictive-Analytics-by-Priscila-Espino
 ## Day 96 : March 15 , 2021 | Completion of the scholarship
 **Today's Progress :** Today was my last course participation with reverse AMA session.
 
-**Thoughts :** This wonderful learning path concludes and I deeply thank @Gocher for organizing amazing challenges in #sg_python_community, @susyjam for organizing interesting talks in #sg_spanish and @PuzzleDots for supporting us in #sg_spanish_english. 
-We are already winners for being part of this wonderful community.
+**Thoughts :** This wonderful learning path concludes and I deeply thank @Gocher for organizing amazing challenges in #sg_python_community, @susyjam for organizing interesting talks in #sg_spanish and @PuzzleDots for supporting us in #sg_spanish_english
+We are already winners for being part of this wonderful community. @Esma @Jonathan Papworth @Edgar Chacon @Sandra @Edgar Chacon @Nicolás Campos @Joaquin @LauraT @Frida @Ninon Aguilera @tife @Odara Rapheal
+
+[D96]: https://github.com/PrisWen/Bertelsmann-Scholarship-Data-Track/blob/main/assets/96_thanks_udacity.jpg
+##### THANKS UDACITY
+![ THANKS UDACITY ][D96]
